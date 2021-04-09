@@ -39,7 +39,7 @@ namespace CarLotApp
 
                 case 2:
                     index  = Validator.ValidateIndex(CarLot.Inventory.Count, "Which car would you like to purchase?");
-                    CarLot.RemoveCar(index);
+                    CarLot.RemoveCar(index - 1);
                     break;
             }
         }
