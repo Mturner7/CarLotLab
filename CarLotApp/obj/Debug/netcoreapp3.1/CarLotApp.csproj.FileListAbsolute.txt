@@ -1,0 +1,13 @@
+C:\Users\mturner7\dev\Week4Labs\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.exe
+C:\Users\mturner7\dev\Week4Labs\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.deps.json
+C:\Users\mturner7\dev\Week4Labs\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.runtimeconfig.json
+C:\Users\mturner7\dev\Week4Labs\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.runtimeconfig.dev.json
+C:\Users\mturner7\dev\Week4Labs\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.dll
+C:\Users\mturner7\dev\Week4Labs\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.pdb
+C:\Users\mturner7\dev\Week4Labs\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.csprojAssemblyReference.cache
+C:\Users\mturner7\dev\Week4Labs\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.AssemblyInfoInputs.cache
+C:\Users\mturner7\dev\Week4Labs\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.AssemblyInfo.cs
+C:\Users\mturner7\dev\Week4Labs\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.csproj.CoreCompileInputs.cache
+C:\Users\mturner7\dev\Week4Labs\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.dll
+C:\Users\mturner7\dev\Week4Labs\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.pdb
+C:\Users\mturner7\dev\Week4Labs\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.genruntimeconfig.cache
